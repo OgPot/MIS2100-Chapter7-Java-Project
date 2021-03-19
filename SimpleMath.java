@@ -14,7 +14,11 @@ public class SimpleMath {
 		
 		return result;
 	}
-	
+	public double multiply(double n1, double n2) {
+		double answer = (n1*n2);
+		System.out.println(answer);
+		return answer;
+	}
 	
 	
 	
